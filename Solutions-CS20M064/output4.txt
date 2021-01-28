@@ -1,0 +1,252 @@
+size of eigen subspace=4
+category of test data point 1 is :2
+distance of first test data point from category 1=125198.96470314632
+distance of first test data point from category 2=60347.819067799916
+*********************************
+category of test data point 2 is :2
+distance of first test data point from category 1=122525.41085724172
+distance of first test data point from category 2=57081.03575302313
+*********************************
+category of test data point 3 is :1
+distance of first test data point from category 1=49421.15960581419
+distance of first test data point from category 2=117865.85677041528
+*********************************
+category of test data point 4 is :2
+distance of first test data point from category 1=112021.64844636526
+distance of first test data point from category 2=56303.46519629962
+*********************************
+category of test data point 5 is :1
+distance of first test data point from category 1=47062.17149921222
+distance of first test data point from category 2=118003.39759634233
+*********************************
+category of test data point 6 is :1
+distance of first test data point from category 1=84794.36008199597
+distance of first test data point from category 2=75009.67751370804
+*********************************
+category of test data point 7 is :2
+distance of first test data point from category 1=88603.23437469266
+distance of first test data point from category 2=75309.22630554956
+*********************************
+category of test data point 8 is :1
+distance of first test data point from category 1=48439.195220784764
+distance of first test data point from category 2=118196.1053726649
+*********************************
+category of test data point 9 is :1
+distance of first test data point from category 1=55244.64294712273
+distance of first test data point from category 2=130086.13455643671
+*********************************
+category of test data point 10 is :2
+distance of first test data point from category 1=88443.83436895315
+distance of first test data point from category 2=75331.15986696613
+*********************************
++++++++++++++++++++++++++++
+size of eigen subspace=8
+category of test data point 1 is :2
+distance of first test data point from category 1=132846.7373626574
+distance of first test data point from category 2=77850.69522233571
+*********************************
+category of test data point 2 is :2
+distance of first test data point from category 1=131120.25265878238
+distance of first test data point from category 2=76840.16536985154
+*********************************
+category of test data point 3 is :1
+distance of first test data point from category 1=70047.40282749842
+distance of first test data point from category 2=130069.40105786404
+*********************************
+category of test data point 4 is :2
+distance of first test data point from category 1=122449.54073231667
+distance of first test data point from category 2=78860.0180524847
+*********************************
+category of test data point 5 is :1
+distance of first test data point from category 1=64863.46870569688
+distance of first test data point from category 2=128837.00605877714
+*********************************
+category of test data point 6 is :1
+distance of first test data point from category 1=109617.4766262009
+distance of first test data point from category 2=104784.19637164655
+*********************************
+category of test data point 7 is :2
+distance of first test data point from category 1=104643.93204873276
+distance of first test data point from category 2=95385.72818985247
+*********************************
+category of test data point 8 is :1
+distance of first test data point from category 1=69360.41621644376
+distance of first test data point from category 2=131769.69577043434
+*********************************
+category of test data point 9 is :1
+distance of first test data point from category 1=73446.6261976223
+distance of first test data point from category 2=140239.07158068466
+*********************************
+category of test data point 10 is :2
+distance of first test data point from category 1=103876.06418653493
+distance of first test data point from category 2=94854.64372637054
+*********************************
++++++++++++++++++++++++++++
+size of eigen subspace=12
+category of test data point 1 is :2
+distance of first test data point from category 1=137500.97178771644
+distance of first test data point from category 2=90824.98459400606
+*********************************
+category of test data point 2 is :2
+distance of first test data point from category 1=134435.2175270632
+distance of first test data point from category 2=88128.85579512465
+*********************************
+category of test data point 3 is :1
+distance of first test data point from category 1=76080.83554930911
+distance of first test data point from category 2=136030.79681271192
+*********************************
+category of test data point 4 is :2
+distance of first test data point from category 1=129022.13315572299
+distance of first test data point from category 2=92807.18267591378
+*********************************
+category of test data point 5 is :1
+distance of first test data point from category 1=72794.99998490025
+distance of first test data point from category 2=135426.978825896
+*********************************
+category of test data point 6 is :1
+distance of first test data point from category 1=113675.83398548423
+distance of first test data point from category 2=112942.14394670431
+*********************************
+category of test data point 7 is :2
+distance of first test data point from category 1=120123.11309291082
+distance of first test data point from category 2=115158.91769350816
+*********************************
+category of test data point 8 is :1
+distance of first test data point from category 1=75740.50937805099
+distance of first test data point from category 2=137706.52727956575
+*********************************
+category of test data point 9 is :1
+distance of first test data point from category 1=80101.99993847239
+distance of first test data point from category 2=145922.00878520618
+*********************************
+category of test data point 10 is :2
+distance of first test data point from category 1=118775.87094468504
+distance of first test data point from category 2=113991.16943066745
+*********************************
++++++++++++++++++++++++++++
+size of eigen subspace=20
+category of test data point 1 is :2
+distance of first test data point from category 1=144033.97939382697
+distance of first test data point from category 2=97916.55023302152
+*********************************
+category of test data point 2 is :2
+distance of first test data point from category 1=141179.52526872454
+distance of first test data point from category 2=95087.72119032424
+*********************************
+category of test data point 3 is :1
+distance of first test data point from category 1=88110.30517188355
+distance of first test data point from category 2=140691.34957461004
+*********************************
+category of test data point 4 is :2
+distance of first test data point from category 1=136308.7293009158
+distance of first test data point from category 2=100020.05689019142
+*********************************
+category of test data point 5 is :1
+distance of first test data point from category 1=85745.78035081038
+distance of first test data point from category 2=140808.67676092515
+*********************************
+category of test data point 6 is :1
+distance of first test data point from category 1=123017.80429681642
+distance of first test data point from category 2=119776.13755316116
+*********************************
+category of test data point 7 is :2
+distance of first test data point from category 1=127979.74104755383
+distance of first test data point from category 2=120969.85201196946
+*********************************
+category of test data point 8 is :1
+distance of first test data point from category 1=88289.63696796432
+distance of first test data point from category 2=143062.16830684923
+*********************************
+category of test data point 9 is :1
+distance of first test data point from category 1=94306.72556887365
+distance of first test data point from category 2=151653.2242938805
+*********************************
+category of test data point 10 is :2
+distance of first test data point from category 1=126731.22689606555
+distance of first test data point from category 2=119871.49281232207
+*********************************
++++++++++++++++++++++++++++
+size of eigen subspace=30
+category of test data point 1 is :2
+distance of first test data point from category 1=149273.77021327947
+distance of first test data point from category 2=106967.43109134123
+*********************************
+category of test data point 2 is :2
+distance of first test data point from category 1=146514.2171041124
+distance of first test data point from category 2=105018.46164759283
+*********************************
+category of test data point 3 is :1
+distance of first test data point from category 1=97255.77967089246
+distance of first test data point from category 2=146557.38198548497
+*********************************
+category of test data point 4 is :2
+distance of first test data point from category 1=141803.2964428616
+distance of first test data point from category 2=108604.5893545481
+*********************************
+category of test data point 5 is :1
+distance of first test data point from category 1=94769.93767220384
+distance of first test data point from category 2=146633.99323501228
+*********************************
+category of test data point 6 is :1
+distance of first test data point from category 1=129355.43029541269
+distance of first test data point from category 2=126683.59632121961
+*********************************
+category of test data point 7 is :2
+distance of first test data point from category 1=133713.4059831319
+distance of first test data point from category 2=127956.72315240337
+*********************************
+category of test data point 8 is :1
+distance of first test data point from category 1=96878.0327026446
+distance of first test data point from category 2=148985.9883932818
+*********************************
+category of test data point 9 is :1
+distance of first test data point from category 1=103068.75229134507
+distance of first test data point from category 2=157090.036714975
+*********************************
+category of test data point 10 is :2
+distance of first test data point from category 1=132517.07306702118
+distance of first test data point from category 2=126926.27166034083
+*********************************
++++++++++++++++++++++++++++
+size of eigen subspace=40
+category of test data point 1 is :2
+distance of first test data point from category 1=153839.3926588736
+distance of first test data point from category 2=109821.67613202776
+*********************************
+category of test data point 2 is :2
+distance of first test data point from category 1=151230.39777995012
+distance of first test data point from category 2=107797.47004528188
+*********************************
+category of test data point 3 is :1
+distance of first test data point from category 1=104732.19567416016
+distance of first test data point from category 2=148548.65643504972
+*********************************
+category of test data point 4 is :2
+distance of first test data point from category 1=146646.0787085038
+distance of first test data point from category 2=111142.68977735771
+*********************************
+category of test data point 5 is :1
+distance of first test data point from category 1=102488.1323425702
+distance of first test data point from category 2=148736.73762034954
+*********************************
+category of test data point 6 is :1
+distance of first test data point from category 1=134592.82474230218
+distance of first test data point from category 2=129276.05917860179
+*********************************
+category of test data point 7 is :2
+distance of first test data point from category 1=138822.9744393385
+distance of first test data point from category 2=130044.150641782
+*********************************
+category of test data point 8 is :1
+distance of first test data point from category 1=104403.04051198569
+distance of first test data point from category 2=150929.32723171505
+*********************************
+category of test data point 9 is :1
+distance of first test data point from category 1=110243.52382798088
+distance of first test data point from category 2=159044.78326706495
+*********************************
+category of test data point 10 is :2
+distance of first test data point from category 1=137681.2247529483
+distance of first test data point from category 2=129052.3458999905
+*********************************
++++++++++++++++++++++++++++
